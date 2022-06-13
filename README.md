@@ -1,1 +1,1 @@
-"# Weather-Data-Fetcher" 
+This program helps people use better vocabulary with listening to key pressings and warning the user when there is an usage of "very". For example; when the user types "The view very beautiful" instead of "The view is so gorgeous" the program simply warns the user. 
